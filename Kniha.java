@@ -1,4 +1,4 @@
-package kokotina;
+package projekt;
 
 public class Kniha {
 String  nazev;
